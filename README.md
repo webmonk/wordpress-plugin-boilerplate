@@ -1,2 +1,3 @@
 # wordpress-plugin-boilerplate
-Wordpress plugin boilerplate
+A Wordpress plugin boilerplate to bootstrap Wordpress plugin development.
+
