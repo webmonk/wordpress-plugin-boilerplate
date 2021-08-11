@@ -1,12 +1,14 @@
 <?php
-/*
-Plugin Name: Plugin Name
-Plugin URI: http://codemypain.com
-Description: Short plugin description
-Version: 3.2
-Author: Isaac Oyelowo
-Author URI: http://isaacoyelowo.dev
-*/
+/**
+ * Plugin Name: Plugin Name
+ * Plugin URI: http://codemypain.com
+ * Description: Short plugin description
+ * Version: 3.2
+ * Author: Isaac Oyelowo
+ * Author URI: http://isaacoyelowo.dev
+ * Requires at least: 3.0
+ * Tested up to: 4.1
+ */
 
 class Plugin_Class {
 
